@@ -1,2 +1,2 @@
 # Formul-rio
-Formulário; Aluno iniciante em HTML/CSS
+Projeto iniciado apenas para meu próprio aprendizado da linguagem HTML/CSS;
